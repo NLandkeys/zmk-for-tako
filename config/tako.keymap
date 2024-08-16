@@ -69,6 +69,11 @@
             bindings = <&kp RSHIFT>;
             key-positions = <28 29>;
         };
+
+        caps {
+            bindings = <&kp CAPSLOCK>;
+            key-positions = <2 3>;
+        };
     };
 
     macros {
